@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:ital,wght@0,400;0,500;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+{
+padding :0;
+margin:0;
+}
+
+.body{
+  font-family: 'Asap', sans-serif;
+}
+
+.banercontent h1 {
+    font-size: 85px;
+    padding: 220px 0 0 0;
+}
+
+.backimges {
+    background-image: url(../images/download.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    height: 698px;
+}
+.banercontent {
+    text-align: center;
+    padding: 40px 0;
+}
+
+.contentsecond h1 {
+    text-align: center;
+    padding: 21px 3px 38px 0;
+    font-weight: 700;
+}
+.con {
+    text-align: center;
+}
+.name img {
+    width: 76px;
+}
+
+.icon {
+    text-align: center;
+    font-size: 75px;
+    color: #db6868;
+}
+section.new {
+    padding: 100px 0 0 0;
+}
+
+.distance {
+    padding: 114px 4px 9px 5px;
+}
+.baccolor.text-white.bg-danger {
+    padding: 57px 0 57px 0px;
+    /* text-align: center; */
+}
+.con h1 {
+    padding: 11px 0 44px 0;
+}
+
+.btnsty button {
+    background-color: #e74545;
+    border: solid #fff;
+    color: #fff;
+    padding: -3px 31px 16px 36px;
+    border-radius: 10px;
+    /* text-align: center; */
+    margin: 0px 0px 41px 26px;
+    height: 99px;
+    width: 200px;
+}
+
+.Stylet h6 {
+    text-align: center;
+    font-size: 63px;
+    padding: 13px 0 26px 0;
+}
+
+
+.timercolor {
+    padding: 14px 7px 11px 30px;
+    background-color: #bf2c2c;
+    height: 149px;
+    margin: 35px 0 67px 0;
+    height: 206px;
+}
+
+.timer {
+    padding: 27px 0 0 0;
+}
+
+.church {
+    padding: 85px 0 0 0;
+}
+
+.distnce {
+    background-color: #e7dfdf;
+    margin: -9px 0 0 0;
+}
+
+
+
+.timer button{
+  display: inline-block;
+  float: left;
+  width: 150px;
+  height: 100px;
+  background: #fdfe69;
+  color: #000;
+  padding: 10px;
+  border: 2px solid #000;
+  border-radius: 5px;
+  font: 17px cursive;
+  text-align: center;
+  line-height: 80px;
+  cursor: pointer;
+}
+#show {
+    margin: 11px 17px;
+}
+#show2{margin: 10px 0px}
+#show3{margin: 10px 50px}
